@@ -32,12 +32,12 @@ A platform for job seekers and companies to connect.
 
 ### **2. AnyVessel**
 A project management and logistics platform.  
-**Tech:** React, Node.js, MongoDB, Express.js  
+**Tech:** React, Node.js, MongoDB, Express.js , Firebase   
   [Live Link](https://cheerful-cucurucho-60f8c8.netlify.app/)
 
 ### **3. Vijilin**
 A social media and automation-focused platform.  
-**Tech:** React, Next.js, n8n, Firebase  
+**Tech:** React,Javacript , Tailwind Css 
   [Live Link](https://vijilin.vercel.app/)
 
 ### **4. Legal Lawyer**
@@ -47,7 +47,7 @@ A legal services website where users can consult and find lawyers.
 
 ### **5. Nearby Blood**
 A web app to find blood donors nearby in emergencies.  
-**Tech:** React, Node.js, MongoDB, Express.js  
+**Tech:** Next.js , React, TypeScript , Node.js, MongoDB, Express.js  
  [Live Link](https://nearby-blood.vercel.app/)
 
 ---

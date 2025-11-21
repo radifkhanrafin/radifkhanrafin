@@ -54,7 +54,7 @@ A web app to find blood donors nearby in emergencies.
 
 ## 📈 GitHub Stats
 
-![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=radifkhanrafin&show_icons=true&theme=radical)  
+[![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=radifkhanrafin&show_icons=true&theme=radical)](https://github.com/radifkhanrafin)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radifkhanrafin&layout=compact&theme=radical)
 
 ---

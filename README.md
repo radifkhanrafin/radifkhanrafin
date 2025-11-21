@@ -1,82 +1,91 @@
-# Md Mahfuz Hossain 🚀
+# Hi there 👋, I'm Md Mahfuz Hossain
 
-**Full-Stack Web Developer | React & Next.js | Automation Enthusiast**
+> **Full-Stack Web Developer (React & Next.js) | Automation & Web Solutions Enthusiast**  
 
-Hi there! I'm **Md Mahfuz Hossain**, a passionate full-stack web developer specializing in **React and Next.js**. I enjoy building modern, responsive, and scalable web applications, and I also work with **automation workflows** to make repetitive tasks faster and smarter.
+I love building **modern, responsive, and AI-driven web applications**, and I also specialize in **automation tools and social media automation solutions**.
 
 ---
 
 ## 🛠️ Skills
 
-**Frontend:**  
-- React ⚛️ 90%  
-- Next.js 🟢 85%  
-- JavaScript 💛 90%  
-- TypeScript 🔷 70%  
-- Tailwind CSS 🎨 85%  
-- Responsive UI/UX 📱 90%  
+### **Frontend**
+- React.js | Next.js | JavaScript | TypeScript | Redux | React Query / SWR (Data Fetching) | Styled Components | Framer Motion | MUI | Tailwind CSS | CSS | HTML
 
-**Backend:**  
-- Node.js 🟢 85%  
-- Express.js ⚡ 80%  
-- MongoDB 🗄️ 80%  
-- Mongoose 📦 75%  
-- REST APIs 🌐 85%  
-- Firebase 🔥 70%  
+### **Backend**
+- Node.js | Express.js | MongoDB | Firebase | REST API & GraphQL | Mongoose | WebSockets & Socket.io | JWT | OAuth
 
-**Automation & Workflow:**  
-- n8n Workflow Automation 🤖  
-- Zapier / API Integrations ⚡  
+### **Automation & Tools**
+- n8n Automation | Zapier | Social Media Automation | Python (Automation Scripts)
 
-**Other Tools & Technologies:**  
-- Git & GitHub 🐙    
-- Postman 📝   
-- Figma 🎨    
-- Deployment: Vercel, Netlify, Firebase Hosting 🚀  
+### **Other Tools**
+- Git & GitHub | VS Code | Figma | Postman | Deployment (Vercel, Netlify)
+
 
 ---
 
 ## 💻 Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Hire Wave Hiring Agency** | Job platform connecting seekers and companies with dashboards & auth | React, Next.js, Node.js, MongoDB, Tailwind CSS |
-| **Nearby Blood** | Blood donation platform to connect donors and seekers quickly | React, Node.js, Express.js, MongoDB, Firebase |
-| **Portfolio Website** | Personal portfolio with animations and modern UI | React, Next.js, Tailwind CSS |
-| **Recipe Genie App** | Automation-assisted recipe generator suggesting recipes | React, Node.js, Express.js, n8n |
-| **Club Event Management System** | Event management platform for university clubs | React, Next.js, MongoDB, Node.js |
+### **1. Hire Wave Hiring Agency**
+A platform for job seekers and companies to connect.  
+**Tech:** React, Tailwind CSS, Firebase, Node.js, MongoDB  
+ [Live Link](#)
+
+### **2. AnyVessel**
+A project management and logistics platform.  
+**Tech:** React, Node.js, MongoDB, Express.js  
+  [Live Link](#)
+
+### **3. Vijilin**
+A social media and automation-focused platform.  
+**Tech:** React, Next.js, n8n, Firebase  
+  [Live Link](#)
+
+### **4. Legal Lawyer**
+A legal services website where users can consult and find lawyers.  
+**Tech:** React, Node.js, MongoDB, Express.js  
+ [Live Link](#)
+
+### **5. Nearby Blood**
+A web app to find blood donors nearby in emergencies.  
+**Tech:** React, Node.js, MongoDB, Express.js  
+ [Live Link]()
 
 ---
 
-## 🏢 Experience
+## 📈 GitHub Stats
 
-- **Freelance Web Developer** – Built multiple client projects using MERN stack and Next.js  
-- **Internships:** Web app development, REST API integration, database management, automation workflows  
-- Handled **end-to-end project development** including frontend, backend, automation, and deployment  
+![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ---
 
-## 🌐 Portfolio & Links
+## 🔗 Connect with Me
 
-- **GitHub:** [https://github.com/mdmahfuzhossain278](https://github.com/mdmahfuzhossain278)  
-- **LinkedIn:** [https://www.linkedin.com/in/mdmahfuzhossain](https://www.linkedin.com/in/mdmahfuzhossain)  
-- **Portfolio Website:** [https://mdmahfuzhossain.com](https://mdmahfuzhossain.com)  
-
----
-
-## 📫 Contact
-
-- **Email:** mdmahfuzhossain278@gmail.com  
-- **Phone:** +880 1621961907  
+- [LinkedIn](https://www.linkedin.com/in/md-mahfuz-hossain)  
+- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)  
+- [Portfolio](https://YOUR_PORTFOLIO_LINK.com)  
+- [Upwork](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)  
+- Email: mdmahfuzhossain278@gmail.com  
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Achievements
 
-- Completed multiple MERN & Next.js projects  
-- Experienced in **n8n automation workflows** to streamline repetitive tasks  
-- Recognized for contributions to university projects and departmental club websites  
+- Solved **250+ problems** on competitive programming platforms  
+- Built multiple **automation and MERN stack projects**  
+- Part of **ICPC Team** representing university  
+- Strong focus on **modern web development & automation solutions**
+
+---
+## 🚀 Currently Learning
+ 
+- **TypeScript** for robust and scalable web apps  
+- **Automation tools & pipelines** (n8n, Zapier, CI/CD integration)  
+- **Social Media Automation** & AI-driven automation solutions  
+- **GraphQL & Advanced API Design** (Apollo Client/Server)  
+- **Cloud Deployment & DevOps basics** (Vercel, Netlify, Firebase, AWS)   
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🎯 Fun Fact
+
+> “I love turning ideas into reality through code and automation.”

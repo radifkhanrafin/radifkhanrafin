@@ -28,42 +28,45 @@ I love building **modern, responsive, and AI-driven web applications**, and I al
 ### **1. Hire Wave Hiring Agency**
 A platform for job seekers and companies to connect.  
 **Tech:** React, Tailwind CSS, Firebase, Node.js, MongoDB  
- [Live Link](#)
+ [Live Link](https://hire-wave.web.app/)
 
 ### **2. AnyVessel**
 A project management and logistics platform.  
 **Tech:** React, Node.js, MongoDB, Express.js  
-  [Live Link](#)
+  [Live Link](https://cheerful-cucurucho-60f8c8.netlify.app/)
 
 ### **3. Vijilin**
 A social media and automation-focused platform.  
 **Tech:** React, Next.js, n8n, Firebase  
-  [Live Link](#)
+  [Live Link](https://vijilin.vercel.app/)
 
 ### **4. Legal Lawyer**
 A legal services website where users can consult and find lawyers.  
 **Tech:** React, Node.js, MongoDB, Express.js  
- [Live Link](#)
+ [Live Link](https://grand-centaur-e1b3c6.netlify.app/)
 
 ### **5. Nearby Blood**
 A web app to find blood donors nearby in emergencies.  
 **Tech:** React, Node.js, MongoDB, Express.js  
- [Live Link]()
+ [Live Link](https://nearby-blood.vercel.app/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=radifkhanrafin&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radifkhanrafin&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/md-mahfuz-hossain)  
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)  
-- [Portfolio](https://YOUR_PORTFOLIO_LINK.com)  
-- [Upwork](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)  
+- [LinkedIn](https://www.linkedin.com/in/mahfuz-web-dev/)  
+- [Facebook](https://www.facebook.com/mahfuz.web.dev)  
+- [GitHub](https://github.com/radifkhanrafin)  
+- [Portfolio](https://mahfuz-nine.vercel.app/)  
+- [Upwork](https://www.upwork.com/freelancers/~011dbc167e1a463e39)  
+- WhatsApp : 01621961907  
 - Email: mdmahfuzhossain278@gmail.com  
 
 ---

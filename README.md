@@ -1,30 +1,38 @@
 # Md Mahfuz Hossain 🚀
 
-**Full-Stack Web Developer | React & Next.js | AI Enthusiast**
+**Full-Stack Web Developer | React & Next.js | Automation Enthusiast**
 
-Hi there! I'm **Md Mahfuz Hossain**, a passionate full-stack web developer specializing in **React and Next.js**. I enjoy building modern, responsive, and scalable web applications, and I am also exploring the intersection of **AI and web development** to create intelligent and efficient solutions.
+Hi there! I'm **Md Mahfuz Hossain**, a passionate full-stack web developer specializing in **React and Next.js**. I enjoy building modern, responsive, and scalable web applications, and I also work with **automation workflows** to make repetitive tasks faster and smarter.
 
 ---
 
 ## 🛠️ Skills
 
 **Frontend:**  
-- React, Next.js, JavaScript, TypeScript  
-- Tailwind CSS, CSS3, HTML5  
-- Responsive UI/UX design  
+- React ⚛️ 90%  
+- Next.js 🟢 85%  
+- JavaScript 💛 90%  
+- TypeScript 🔷 70%  
+- Tailwind CSS 🎨 85%  
+- Responsive UI/UX 📱 90%  
 
 **Backend:**  
-- Node.js, Express.js  
-- MongoDB, Mongoose  
-- REST APIs, Firebase  
+- Node.js 🟢 85%  
+- Express.js ⚡ 80%  
+- MongoDB 🗄️ 80%  
+- Mongoose 📦 75%  
+- REST APIs 🌐 85%  
+- Firebase 🔥 70%  
 
-**AI & Machine Learning:**  
-- AI-assisted coding tools (GitHub Copilot, ChatGPT, Cursor AI)  
-- Basic ML concepts, integrating AI features into web apps  
+**Automation & Workflow:**  
+- n8n Workflow Automation 🤖  
+- Zapier / API Integrations ⚡  
 
 **Other Tools & Technologies:**  
-- Git, GitHub, Postman, Figma, VS Code  
-- Deployment: Vercel, Netlify, Firebase Hosting  
+- Git & GitHub 🐙    
+- Postman 📝   
+- Figma 🎨    
+- Deployment: Vercel, Netlify, Firebase Hosting 🚀  
 
 ---
 
@@ -32,19 +40,19 @@ Hi there! I'm **Md Mahfuz Hossain**, a passionate full-stack web developer speci
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Hire Wave Hiring Agency** | Job platform connecting seekers and companies with authentication & dashboards | React, Next.js, Node.js, MongoDB, Tailwind CSS |
+| **Hire Wave Hiring Agency** | Job platform connecting seekers and companies with dashboards & auth | React, Next.js, Node.js, MongoDB, Tailwind CSS |
 | **Nearby Blood** | Blood donation platform to connect donors and seekers quickly | React, Node.js, Express.js, MongoDB, Firebase |
-| **Portfolio Website** | Personal portfolio showcasing projects, skills, and contact info with animations | React, Next.js, Tailwind CSS |
-| **Recipe Genie App** | AI-assisted recipe generator that suggests recipes based on ingredients | React, Node.js, Express.js, AI APIs |
-| **Club Event Management System** | Event management platform for university clubs with registration & notifications | React, Next.js, MongoDB, Node.js |
+| **Portfolio Website** | Personal portfolio with animations and modern UI | React, Next.js, Tailwind CSS |
+| **Recipe Genie App** | Automation-assisted recipe generator suggesting recipes | React, Node.js, Express.js, n8n |
+| **Club Event Management System** | Event management platform for university clubs | React, Next.js, MongoDB, Node.js |
 
 ---
 
 ## 🏢 Experience
 
-- **Freelance Web Developer** – Built multiple client projects using MERN stack and Next.js.  
-- **Internships:** Worked on web application development, REST API integration, and database management.  
-- Experience in handling **end-to-end development** of projects, including frontend, backend, and deployment.  
+- **Freelance Web Developer** – Built multiple client projects using MERN stack and Next.js  
+- **Internships:** Web app development, REST API integration, database management, automation workflows  
+- Handled **end-to-end project development** including frontend, backend, automation, and deployment  
 
 ---
 
@@ -65,9 +73,9 @@ Hi there! I'm **Md Mahfuz Hossain**, a passionate full-stack web developer speci
 
 ## 🏆 Certifications & Achievements
 
-- Completed multiple MERN & Next.js projects and web development courses.  
-- Experienced in AI-assisted development tools for efficient coding.  
-- Recognized for contributions to university projects and departmental club websites.  
+- Completed multiple MERN & Next.js projects  
+- Experienced in **n8n automation workflows** to streamline repetitive tasks  
+- Recognized for contributions to university projects and departmental club websites  
 
 ---
 

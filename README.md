@@ -1,42 +1,73 @@
-# Hi there 👋, I'm Md Mahfuz Hossain
+# Md Mahfuz Hossain 🚀
 
-### 🚀 Full-Stack Developer | MERN & Next.js
+**Full-Stack Web Developer | React & Next.js | AI Enthusiast**
 
-I build **modern, responsive, and scalable web applications** with a focus on clean code, performance, and user experience.
+Hi there! I'm **Md Mahfuz Hossain**, a passionate full-stack web developer specializing in **React and Next.js**. I enjoy building modern, responsive, and scalable web applications, and I am also exploring the intersection of **AI and web development** to create intelligent and efficient solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-- **Frontend:** React, Next.js, Tailwind CSS, JavaScript, TypeScript  
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose  
-- **Tools & Others:** Git, GitHub, Firebase, Postman, AI-assisted coding tools (ChatGPT, GitHub Copilot, Cursor AI)  
+**Frontend:**  
+- React, Next.js, JavaScript, TypeScript  
+- Tailwind CSS, CSS3, HTML5  
+- Responsive UI/UX design  
+
+**Backend:**  
+- Node.js, Express.js  
+- MongoDB, Mongoose  
+- REST APIs, Firebase  
+
+**AI & Machine Learning:**  
+- AI-assisted coding tools (GitHub Copilot, ChatGPT, Cursor AI)  
+- Basic ML concepts, integrating AI features into web apps  
+
+**Other Tools & Technologies:**  
+- Git, GitHub, Postman, Figma, VS Code  
+- Deployment: Vercel, Netlify, Firebase Hosting  
 
 ---
 
 ## 💻 Projects
 
-| Project | Description | Live Demo | Source Code |
-|---------|-------------|-----------|-------------|
-| **Hire Wave Hiring Agency** | A platform for job seekers and companies to connect | [Live](#) | [GitHub](#) |
-| **Nearby Blood** | Blood donation platform for donors and seekers | [Live](#) | [GitHub](#) |
-| **Portfolio Website** | Personal portfolio with animations and modern UI | [Live](#) | [GitHub](#) |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Hire Wave Hiring Agency** | Job platform connecting seekers and companies with authentication & dashboards | React, Next.js, Node.js, MongoDB, Tailwind CSS |
+| **Nearby Blood** | Blood donation platform to connect donors and seekers quickly | React, Node.js, Express.js, MongoDB, Firebase |
+| **Portfolio Website** | Personal portfolio showcasing projects, skills, and contact info with animations | React, Next.js, Tailwind CSS |
+| **Recipe Genie App** | AI-assisted recipe generator that suggests recipes based on ingredients | React, Node.js, Express.js, AI APIs |
+| **Club Event Management System** | Event management platform for university clubs with registration & notifications | React, Next.js, MongoDB, Node.js |
 
 ---
 
-## 📈 GitHub Stats
+## 🏢 Experience
 
-![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahfuzhossain278&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahfuzhossain278&layout=compact&theme=radical)
+- **Freelance Web Developer** – Built multiple client projects using MERN stack and Next.js.  
+- **Internships:** Worked on web application development, REST API integration, and database management.  
+- Experience in handling **end-to-end development** of projects, including frontend, backend, and deployment.  
 
 ---
 
-## ✨ Connect with Me
+## 🌐 Portfolio & Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmahfuzhossain/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmahfuzhossain278)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmahfuzhossain278@gmail.com)  
+- **GitHub:** [https://github.com/mdmahfuzhossain278](https://github.com/mdmahfuzhossain278)  
+- **LinkedIn:** [https://www.linkedin.com/in/mdmahfuzhossain](https://www.linkedin.com/in/mdmahfuzhossain)  
+- **Portfolio Website:** [https://mdmahfuzhossain.com](https://mdmahfuzhossain.com)  
+
+---
+
+## 📫 Contact
+
+- **Email:** mdmahfuzhossain278@gmail.com  
+- **Phone:** +880 1621961907  
+
+---
+
+## 🏆 Certifications & Achievements
+
+- Completed multiple MERN & Next.js projects and web development courses.  
+- Experienced in AI-assisted development tools for efficient coding.  
+- Recognized for contributions to university projects and departmental club websites.  
 
 ---
 
